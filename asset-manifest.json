@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/love-reasons/static/css/main.5aab5289.css",
+    "main.js": "/love-reasons/static/js/main.d4da290f.js",
+    "static/js/453.75c25ffc.chunk.js": "/love-reasons/static/js/453.75c25ffc.chunk.js",
+    "index.html": "/love-reasons/index.html",
+    "main.5aab5289.css.map": "/love-reasons/static/css/main.5aab5289.css.map",
+    "main.d4da290f.js.map": "/love-reasons/static/js/main.d4da290f.js.map",
+    "453.75c25ffc.chunk.js.map": "/love-reasons/static/js/453.75c25ffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aab5289.css",
+    "static/js/main.d4da290f.js"
+  ]
+}
